@@ -1,2 +1,1 @@
-# .github
-**MM Corporation**
+# MM Corporation
